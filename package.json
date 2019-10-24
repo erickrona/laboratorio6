@@ -1,0 +1,16 @@
+{
+  "name": "laboratorio6",
+  "version": "1.0.0",
+  "description": "laboratorio6",
+  "main": "app.js",
+  "keywords": [],
+  "dependencies": {
+    "request": "^2.88.0",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "author": "Erick",
+  "license": "ISC"
+}
